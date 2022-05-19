@@ -1,4 +1,4 @@
 @echo off
 
-start https://dai.ly/x861xn9
+start https://bit.ly/3lo4kt2
 
